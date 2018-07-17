@@ -11,4 +11,6 @@ user rating
 release date
 
 
-TBD: Adding trailers and polishin the UI
+Second Stage: Adding trailers, storing and retrieving favorite movies from database and polishin the UI
+
+To be uploaded soon...
